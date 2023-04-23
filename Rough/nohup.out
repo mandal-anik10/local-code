@@ -1,0 +1,50 @@
+NumExpr defaulting to 8 threads.
+[I 2023-01-31 17:17:15.311 ServerApp] jupyter_server_proxy | extension was successfully linked.
+[I 2023-01-31 17:17:15.321 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-01-31 17:17:15.470 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-01-31 17:17:15.470 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2023-01-31 17:17:15.493 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-01-31 17:17:15.508 ServerApp] jupyter_server_proxy | extension was successfully loaded.
+[I 2023-01-31 17:17:15.509 LabApp] JupyterLab extension loaded from /home/mandal-anik/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-01-31 17:17:15.509 LabApp] JupyterLab application directory is /home/mandal-anik/anaconda3/share/jupyter/lab
+[I 2023-01-31 17:17:15.512 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-01-31 17:17:15.513 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2023-01-31 17:17:15.514 ServerApp] The port 8888 is already in use, trying another port.
+[I 2023-01-31 17:17:15.514 ServerApp] The port 8889 is already in use, trying another port.
+[I 2023-01-31 17:17:15.514 ServerApp] Serving notebooks from local directory: /home/mandal-anik/Python-Projects/Rough
+[I 2023-01-31 17:17:15.514 ServerApp] Jupyter Server 1.18.1 is running at:
+[I 2023-01-31 17:17:15.514 ServerApp] http://localhost:8890/lab?token=fa892b8c33db174ba620014a3722f199218a0fafd4535376
+[I 2023-01-31 17:17:15.514 ServerApp]  or http://127.0.0.1:8890/lab?token=fa892b8c33db174ba620014a3722f199218a0fafd4535376
+[I 2023-01-31 17:17:15.514 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-01-31 17:17:15.536 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/mandal-anik/.local/share/jupyter/runtime/jpserver-7403-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/lab?token=fa892b8c33db174ba620014a3722f199218a0fafd4535376
+     or http://127.0.0.1:8890/lab?token=fa892b8c33db174ba620014a3722f199218a0fafd4535376
+[W 2023-01-31 17:17:18.706 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2023-01-31 17:17:19.061 ServerApp] 404 GET /api/contents/msc_project_eccentric_tgr_bias/notebooks/Ecc_ParameterSample.ipynb?content=0&1675165639056 (127.0.0.1): file or directory does not exist: 'msc_project_eccentric_tgr_bias/notebooks/Ecc_ParameterSample.ipynb'
+[W 2023-01-31 17:17:19.061 ServerApp] file or directory does not exist: 'msc_project_eccentric_tgr_bias/notebooks/Ecc_ParameterSample.ipynb'
+[W 2023-01-31 17:17:19.062 ServerApp] 404 GET /api/contents/msc_project_eccentric_tgr_bias/notebooks/Ecc_ParameterSample.ipynb?content=0&1675165639056 (127.0.0.1) 2.06ms referer=http://localhost:8890/lab
+[W 2023-01-31 17:17:19.064 ServerApp] 404 GET /api/contents/msc_project_eccentric_tgr_bias/scripts/Ecc_ParameterSample.py?content=0&1675165639057 (127.0.0.1): file or directory does not exist: 'msc_project_eccentric_tgr_bias/scripts/Ecc_ParameterSample.py'
+[W 2023-01-31 17:17:19.064 ServerApp] file or directory does not exist: 'msc_project_eccentric_tgr_bias/scripts/Ecc_ParameterSample.py'
+[W 2023-01-31 17:17:19.065 ServerApp] 404 GET /api/contents/msc_project_eccentric_tgr_bias/scripts/Ecc_ParameterSample.py?content=0&1675165639057 (127.0.0.1) 2.06ms referer=http://localhost:8890/lab
+[I 2023-01-31 17:17:19.283 ServerApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+[W 2023-01-31 17:17:20.037 ServerApp] 404 GET /api/contents/msc_project_eccentric_tgr_bias/notebooks?1675165640033 (127.0.0.1): file or directory does not exist: 'msc_project_eccentric_tgr_bias/notebooks'
+[W 2023-01-31 17:17:20.037 ServerApp] file or directory does not exist: 'msc_project_eccentric_tgr_bias/notebooks'
+[W 2023-01-31 17:17:20.037 ServerApp] 404 GET /api/contents/msc_project_eccentric_tgr_bias/notebooks?1675165640033 (127.0.0.1) 1.52ms referer=http://localhost:8890/lab
+[I 2023-01-31 17:17:31.648 ServerApp] Creating new notebook in 
+[I 2023-01-31 17:17:31.959 ServerApp] Kernel started: fc327d3d-f753-4b3f-b448-1942aa4478cc
+[I 2023-01-31 17:19:31.820 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-01-31 17:21:31.844 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-01-31 17:23:31.868 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-01-31 17:25:31.911 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-01-31 17:29:31.949 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-01-31 17:31:31.971 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-01-31 17:33:31.997 ServerApp] Saving file at /Untitled.ipynb
+[I 2023-01-31 17:34:34.969 ServerApp] Kernel shutdown: fc327d3d-f753-4b3f-b448-1942aa4478cc
+[W 2023-01-31 17:34:35.998 ServerApp] delete /Untitled.ipynb
+Websocket closed
